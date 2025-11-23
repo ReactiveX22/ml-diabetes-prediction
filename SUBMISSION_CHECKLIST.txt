@@ -11,6 +11,7 @@ B. GITHUB REPOSITORY
 - ML_Project_v0_3.ipynb (full notebook)
 - README.md (instructions)
 - requirements.txt (dependencies)
+- Link: https://github.com/ReactiveX22/ml-diabetes-prediction
 
 - models/
   - Logistic_Regression_best.pkl
@@ -27,6 +28,7 @@ C. YOUTUBE VIDEO
 - 3-minute presentation
 - Problem, dataset, model, results
 - Demo of inference.py
+- Link: https://www.youtube.com/watch?v=a2Al-dTqSlg
 
 D. FILE NAMES
 - REPORT_2104010202291_2104010202299_2104010202279.pdf
