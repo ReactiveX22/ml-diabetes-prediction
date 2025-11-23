@@ -1,0 +1,39 @@
+FINAL SUBMISSION CHECKLIST
+
+TEAM: 2104010202291_2104010202299_2104010202279
+
+A. REPORT (PDF)
+- REPORT_2104010202291_2104010202299_2104010202279.pdf
+- Springer format
+
+B. GITHUB REPOSITORY
+- inference.py (main demo script)
+- ML_Project_v0_3.ipynb (full notebook)
+- README.md (instructions)
+- requirements.txt (dependencies)
+
+- models/
+  - Logistic_Regression_best.pkl
+  - Random_Forest_best.pkl
+  - XGBoost_best.pkl
+  - scaler.pkl
+
+- data/
+  - DiaBD.csv (original dataset)
+  - test_data_final.csv (processed test)
+  - test_sample_final.csv (samples)
+
+C. YOUTUBE VIDEO
+- 3-minute presentation
+- Problem, dataset, model, results
+- Demo of inference.py
+
+D. FILE NAMES
+- REPORT_2104010202291_2104010202299_2104010202279.pdf
+- CODE_2104010202299_2104010202299_2104010202279.zip
+- YouTube link provided
+
+E. REPRODUCIBILITY
+- Python 3.9+, requirements.txt
+- Random seed: 42
+- Clear run instructions
